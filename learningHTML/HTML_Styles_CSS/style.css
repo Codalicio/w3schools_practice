@@ -1,0 +1,17 @@
+h2.one {
+    font-weight: bold;
+    font-size: 125%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: blueviolet;
+    color: blanchedalmond;
+}
+
+#three {
+    color:#fefefe;
+    background-color: #000;
+    padding: 30px;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 50px;
+}
