@@ -1,0 +1,47 @@
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color:yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: tomato;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.one:link {
+    color: #fee;
+    background-color: black;
+    padding: 20px;
+    margin-top: 20%;
+    margin-left: 200px;
+    border: 4px solid greenyellow;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.one:visited {
+    color: blueviolet;
+    border: 4px solid blueviolet;
+    text-decoration: underline;
+}
+
+.one:hover {
+    color: aqua;
+    border: 4px solid aqua;
+    text-decoration: underline;
+}
