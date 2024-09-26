@@ -1,0 +1,8 @@
+table, tr, td {
+    border : 5px solid #000;
+}
+
+td {
+    font-weight: bold;
+    background-color: aquamarine;
+}
