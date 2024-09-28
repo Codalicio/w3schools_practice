@@ -1,0 +1,60 @@
+.one {
+    background-color: black;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+    width:31%;
+    float: left;
+
+}
+
+.two {
+    background-color: rgb(220, 11, 11);
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+    width: 31%;
+    float: left;
+}
+
+.three {
+    background-color: rgb(1, 27, 13);
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;;
+    margin: auto;
+    width:31%;
+    float: left;
+}
+
+.four {
+    background-color: rgb(220, 11, 11);
+    color: aliceblue;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* margin: auto; */
+    width:31%;
+}
+
+.five {
+    background-color: rgb(1, 27, 13);
+    color: aliceblue;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* margin: auto; */
+    width:31%;
+}
+
+.six {
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    padding-left: 10px;
+    /* padding-right: 10px; */
+    /* margin: auto; */
+    width:31%;
+}
