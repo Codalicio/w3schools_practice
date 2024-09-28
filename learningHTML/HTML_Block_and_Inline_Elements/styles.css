@@ -5,3 +5,9 @@ p {
 span {
     border: 1px solid blue;
 }
+
+.one {
+    background-color: darkorchid;
+    color: aliceblue;
+    padding: 15px;
+}
