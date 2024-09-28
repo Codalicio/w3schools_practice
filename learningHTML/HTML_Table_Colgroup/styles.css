@@ -16,6 +16,7 @@ th, td {
 
 .three {
     background-color: cadetblue;
+    visibility: collapse;
 }
 
 caption {
