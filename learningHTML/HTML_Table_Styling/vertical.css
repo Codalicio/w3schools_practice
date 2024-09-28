@@ -1,0 +1,28 @@
+table {
+    border: 5px solid #fefefe;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+th, td {
+    border: 5px solid #fefefe;
+    height: 100px;
+    border-radius: 15px;
+    width: 33.33%;
+}
+
+td:nth-child(odd), th:nth-child(odd) {
+    background-color: blueviolet;
+    color: #fefefe;
+}
+
+th:nth-child(even), td:nth-child(even) {
+    background-color: rgba(5, 171, 248, 0.678);
+    color: aliceblue;
+}
+
+caption {
+    font-weight: bolder;
+    font-size: 30px;
+}
