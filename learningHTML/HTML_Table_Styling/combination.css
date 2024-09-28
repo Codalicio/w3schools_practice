@@ -10,6 +10,10 @@ td, th {
     width: 20%;
 }
 
+tr {
+    border-bottom: 3px solid tomato;
+}
+
 th {
     font-size: 20px;
 }
@@ -20,6 +24,11 @@ tr:nth-child(even) {
 
 td:nth-child(even), th:nth-child(even) {
     background-color: rgba(7, 245, 166, 0.1);
+}
+
+tr:hover {
+    background-color: rgb(148, 11, 240);
+    color: #fefefe;
 }
 
 caption {
