@@ -1,0 +1,32 @@
+table {
+    border: 5px solid #fefefe;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+td, th {
+    height: 70px;
+    width: 20%;
+}
+
+th {
+    font-size: 20px;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(7, 245, 166, 0.2);
+}
+
+td:nth-child(even), th:nth-child(even) {
+    background-color: rgba(7, 245, 166, 0.1);
+}
+
+caption {
+    caption-side: bottom;
+    font-size: 25px;
+}
+
+u{
+    text-decoration: none;
+}
