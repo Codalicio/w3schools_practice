@@ -1,0 +1,43 @@
+.myContainer {
+    display: flex;
+}
+
+.myContainer > div {
+    width: 16.66;
+}
+
+.one {
+    background-color:brown;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.two {
+    background-color:grey;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.three {
+    background-color:brown;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.four {
+    background-color:rgb(21, 174, 212);
+    color: aliceblue;
+    padding: 5px;
+}
+
+.five {
+    background-color: grey;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.six {
+    background-color:brown;
+    color: aliceblue;
+    padding: 5px;
+}
