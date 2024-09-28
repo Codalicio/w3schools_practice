@@ -11,3 +11,14 @@ span {
     color: aliceblue;
     padding: 15px;
 }
+
+.two {
+    background-color: darkolivegreen;
+    color: azure;
+}
+
+.three {
+    background-color: blue;
+    color: aliceblue;
+    /* margin:10px; */
+}
