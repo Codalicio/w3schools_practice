@@ -1,0 +1,30 @@
+table {
+    width: 100%;
+    border: 3px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    border: 3px solid #fefefe;
+    height: 100px;
+    border-radius: 15px;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(227, 240, 240);
+}
+
+tr:nth-child(even) {
+    background-color: rgb(225, 210, 239);
+    color: #ed1313;
+}
+
+caption {
+    /* background-color: rgb(227, 240, 240); */
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+}
