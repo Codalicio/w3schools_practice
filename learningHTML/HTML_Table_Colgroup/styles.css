@@ -3,6 +3,7 @@ table {
     border-radius: 5px;
     width: 100%;
     text-align: center;
+    color: black;
 }
 
 th, td {
@@ -10,15 +11,7 @@ th, td {
     border-radius: 5px;
     width: 14.2857%;
     height: 100px;
-    color:aliceblue;
-}
-
-.one {
-    background-color: lightslategray;
-}
-
-.two {
-    background-color: brown;
+    /* color:rgb(12, 135, 243); */
 }
 
 .three {
